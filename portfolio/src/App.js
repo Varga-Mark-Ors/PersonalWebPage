@@ -1,9 +1,9 @@
-
+import Navbar from "./components/Navbar.jsx";
 
 function App() {
   return (
     <div>
-      <h1 className='font-bold'>Hello</h1>
+      <Navbar />
     </div>
   );
 }
