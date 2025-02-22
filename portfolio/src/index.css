@@ -19,8 +19,25 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+.content-div {
     height: 250px;
     width: 450px;
+}
+
+@media (max-width: 768px) {
+    .content-div {
+        height: 210px;
+        width: 360px;
+    }
+}
+
+@media (max-width: 480px) {
+    .content-div {
+        height: 160px;
+        width: 290px;
+    }
 }
 
 .content-div:hover{
