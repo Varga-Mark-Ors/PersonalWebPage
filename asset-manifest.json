@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PersonalWebPage/static/css/main.a4a3143e.css",
+    "main.css": "/PersonalWebPage/static/css/main.fc828b06.css",
     "main.js": "/PersonalWebPage/static/js/main.a4fc86a9.js",
     "static/media/footballWiki.png": "/PersonalWebPage/static/media/footballWiki.85aec940f12194ab8536.png",
     "static/media/videoGame.png": "/PersonalWebPage/static/media/videoGame.30206ec9feae13599c4b.png",
@@ -17,11 +17,11 @@
     "static/media/css.png": "/PersonalWebPage/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/PersonalWebPage/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/PersonalWebPage/index.html",
-    "main.a4a3143e.css.map": "/PersonalWebPage/static/css/main.a4a3143e.css.map",
+    "main.fc828b06.css.map": "/PersonalWebPage/static/css/main.fc828b06.css.map",
     "main.a4fc86a9.js.map": "/PersonalWebPage/static/js/main.a4fc86a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4a3143e.css",
+    "static/css/main.fc828b06.css",
     "static/js/main.a4fc86a9.js"
   ]
 }
