@@ -10,10 +10,8 @@ import ReactImage from '../assets/react.png'
 
 const Skills = () => {
     return (
-      <div 
-        name='skills' 
-        className='w-full min-h-screen bg-[#ecfffe] text-[#1a1a1a] flex justify-center items-center'
-      >
+      <div name='skills' className='w-full min-h-screen bg-[#ecfffe] text-[#1a1a1a] flex justify-center items-center'>
+        
         {/* Container */}
         <div className='max-w-[1000px] w-full p-4 flex flex-col justify-center items-center text-center'>
           <div>
