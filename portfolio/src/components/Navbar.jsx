@@ -65,21 +65,21 @@ const Navbar = () => {
         <div className='flex fixed flex-col top-[35%] left-0'>
             <ul>
                 <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
-                 hover:ml-[-10px] duration-300 bg-blue-500'>
+                 hover:ml-[-10px] duration-300 bg-[#0274b3]'>
                     <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
                     href='https://www.linkedin.com/in/m%C3%A1rk-%C3%B6rs-varga/' target="_blank" rel="noopener noreferrer">
                         LinkedIn <FaLinkedin size={30} />
                     </a>
                 </li>
                 <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
-                 hover:ml-[-10px] duration-300 bg-[#333333]'>
+                 hover:ml-[-10px] duration-300 bg-[#000000]'>
                     <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
                     href='https://github.com/Varga-Mark-Ors' target="_blank" rel="noopener noreferrer">
                         Github <FaGithub size={30} />
                     </a>
                 </li>
                 <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
-                 hover:ml-[-10px] duration-300 bg-[#e64f31]'>
+                 hover:ml-[-10px] duration-300 bg-[#eba340]'>
                     <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
                     href='https://leetcode.com/u/VMark/' target="_blank" rel="noopener noreferrer">
                         LeetCode <SiLeetcode size={30} />

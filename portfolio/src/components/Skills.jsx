@@ -10,9 +10,12 @@ import ReactImage from '../assets/react.png'
 
 const Skills = () => {
     return (
-      <div name='skills' className='w-full bg-[#ecfffe] text-[#1a1a1a] py-4'>
+      <div 
+        name='skills' 
+        className='w-full min-h-screen bg-[#ecfffe] text-[#1a1a1a] flex justify-center items-center'
+      >
         {/* Container */}
-        <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full'>
+        <div className='max-w-[1000px] w-full p-4 flex flex-col justify-center items-center text-center'>
           <div>
             <p className='text-4xl font-bold inline border-b-4 border-[#0078a1]'>Skills</p>
             <p className='py-4'>These are the technologies I have worked with:</p>
@@ -39,6 +42,6 @@ const Skills = () => {
         </div>
       </div>
     );
-  };
+};
   
-export default Skills;  
+export default Skills;
