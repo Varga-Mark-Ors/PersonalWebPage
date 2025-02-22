@@ -27,7 +27,7 @@ const Projects = () => {
                             Text-based Adventure game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://github.com/Varga-Mark-Ors/TextBasedAdventure" target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-lg font-bold'>Code</button>
                             </a>
                         </div>
@@ -43,7 +43,7 @@ const Projects = () => {
                             Football wikipedia website
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://github.com/Varga-Mark-Ors/Webfejlesztes-Projekt" target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-lg font-bold'>Code</button>
                             </a>
                         </div>
@@ -59,7 +59,7 @@ const Projects = () => {
                             Virtual reality in Architecture
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://github.com/Varga-Mark-Ors/VR-in-Architecture" target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-lg font-bold'>Code</button>
                             </a>
                         </div>
@@ -75,7 +75,7 @@ const Projects = () => {
                             Discord bots
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://github.com/Varga-Mark-Ors/Discord-bots/tree/main" target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 text-lg font-bold'>Code</button>
                             </a>
                         </div>

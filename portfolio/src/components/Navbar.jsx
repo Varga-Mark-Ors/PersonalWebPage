@@ -1,8 +1,9 @@
 import React, {useState} from 'react'
 import {FaBars, FaTimes, FaGithub, FaLinkedin} from "react-icons/fa"
-import { HiOutlineMail } from 'react-icons/hi'
+import { SiLeetcode } from "react-icons/si";
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import Logo from '../assets/myLogo.png'
+import CV from '../assets/CV/Mark-Ors-Varga-CV-EN.pdf'
 import {Link} from 'react-scroll'
 
 const Navbar = () => {
@@ -12,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[60px] flex justify-between items-center px-4 bg-[#EFE9D5] text-[#00a6a6]'>      
         <div>
-            <img src={Logo} alt="Logo Image" style={{width: '80px'}}/>
+            <img src={Logo} alt="Logo Image" style={{width: '40px'}}/>
         </div>
 
         {/* Menu */}
@@ -61,29 +62,33 @@ const Navbar = () => {
         </ul>
 
         {/* Social icons */}
-        <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
+        <div className='flex fixed flex-col top-[35%] left-0'>
             <ul>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500'>
-                    <a  className='flex justify-between items-center w-full text-gray-200' 
-                    href='/'>
+                <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
+                 hover:ml-[-10px] duration-300 bg-blue-500'>
+                    <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
+                    href='https://www.linkedin.com/in/m%C3%A1rk-%C3%B6rs-varga/' target="_blank" rel="noopener noreferrer">
                         LinkedIn <FaLinkedin size={30} />
                     </a>
                 </li>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
-                    <a  className='flex justify-between items-center w-full text-gray-200' 
-                    href='/'>
+                <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
+                 hover:ml-[-10px] duration-300 bg-[#333333]'>
+                    <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
+                    href='https://github.com/Varga-Mark-Ors' target="_blank" rel="noopener noreferrer">
                         Github <FaGithub size={30} />
                     </a>
                 </li>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#e64f31]'>
-                    <a  className='flex justify-between items-center w-full text-gray-200' 
-                    href='/'>
-                        Email <HiOutlineMail size={30} />
+                <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
+                 hover:ml-[-10px] duration-300 bg-[#e64f31]'>
+                    <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
+                    href='https://leetcode.com/u/VMark/' target="_blank" rel="noopener noreferrer">
+                        LeetCode <SiLeetcode size={30} />
                     </a>
                 </li>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#7d8a99]'>
-                    <a  className='flex justify-between items-center w-full text-gray-200' 
-                    href='/'>
+                <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
+                 hover:ml-[-10px] duration-300 bg-[#7d8a99]'>
+                    <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
+                    href={CV} download="Varga_Márk_Örs_EN.pdf">
                         Resume <BsFillPersonLinesFill size={30} />
                     </a>
                 </li>
