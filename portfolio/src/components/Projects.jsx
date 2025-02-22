@@ -7,7 +7,7 @@ import Game from '../assets/projects/videoGame.png'
 const Projects = () => {
   return (
     <div name='projects' className='w-full md:h-screen text-[#fe9f7f] bg-[#1a1a1a]'>
-        <div className='max-w-[1008px] sm:max-w-[90%] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-[#fe9f7f]'>Projects</p>
                 <p className='py-4'>Take a look at some of my recent projects:</p>
