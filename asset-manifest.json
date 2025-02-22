@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PersonalWebPage/static/css/main.a4a3143e.css",
+    "main.js": "/PersonalWebPage/static/js/main.a4fc86a9.js",
+    "static/media/footballWiki.png": "/PersonalWebPage/static/media/footballWiki.85aec940f12194ab8536.png",
+    "static/media/videoGame.png": "/PersonalWebPage/static/media/videoGame.30206ec9feae13599c4b.png",
+    "static/media/virtualReality.png": "/PersonalWebPage/static/media/virtualReality.02305edba60fa788ec03.png",
+    "static/media/background.jpg": "/PersonalWebPage/static/media/background.4c0068db823e1fde2994.jpg",
+    "static/media/java.png": "/PersonalWebPage/static/media/java.a431bcc348805cf9ed48.png",
+    "static/media/myLogo.png": "/PersonalWebPage/static/media/myLogo.946c33a1c67c37d56e3b.png",
+    "static/media/python.png": "/PersonalWebPage/static/media/python.a763c1760b033b162528.png",
+    "static/media/spring.png": "/PersonalWebPage/static/media/spring.1a753d3a09a8df3cec6c.png",
+    "static/media/Mark-Ors-Varga-CV-EN.pdf": "/PersonalWebPage/static/media/Mark-Ors-Varga-CV-EN.db2f28d8719a237cf1d2.pdf",
+    "static/media/discordBots.png": "/PersonalWebPage/static/media/discordBots.e2f8afb1c337dcf5a33e.png",
+    "static/media/react.png": "/PersonalWebPage/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/PersonalWebPage/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/PersonalWebPage/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/PersonalWebPage/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/PersonalWebPage/index.html",
+    "main.a4a3143e.css.map": "/PersonalWebPage/static/css/main.a4a3143e.css.map",
+    "main.a4fc86a9.js.map": "/PersonalWebPage/static/js/main.a4fc86a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a3143e.css",
+    "static/js/main.a4fc86a9.js"
+  ]
+}
