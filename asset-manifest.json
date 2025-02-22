@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PersonalWebPage/static/css/main.a4a3143e.css",
-    "main.js": "/PersonalWebPage/static/js/main.a4fc86a9.js",
+    "main.css": "/PersonalWebPage/static/css/main.6c84119c.css",
+    "main.js": "/PersonalWebPage/static/js/main.8377ff55.js",
     "static/media/footballWiki.png": "/PersonalWebPage/static/media/footballWiki.85aec940f12194ab8536.png",
     "static/media/videoGame.png": "/PersonalWebPage/static/media/videoGame.30206ec9feae13599c4b.png",
     "static/media/virtualReality.png": "/PersonalWebPage/static/media/virtualReality.02305edba60fa788ec03.png",
@@ -17,11 +17,11 @@
     "static/media/css.png": "/PersonalWebPage/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/PersonalWebPage/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/PersonalWebPage/index.html",
-    "main.a4a3143e.css.map": "/PersonalWebPage/static/css/main.a4a3143e.css.map",
-    "main.a4fc86a9.js.map": "/PersonalWebPage/static/js/main.a4fc86a9.js.map"
+    "main.6c84119c.css.map": "/PersonalWebPage/static/css/main.6c84119c.css.map",
+    "main.8377ff55.js.map": "/PersonalWebPage/static/js/main.8377ff55.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4a3143e.css",
-    "static/js/main.a4fc86a9.js"
+    "static/css/main.6c84119c.css",
+    "static/js/main.8377ff55.js"
   ]
 }
