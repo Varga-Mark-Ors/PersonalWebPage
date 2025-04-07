@@ -88,7 +88,7 @@ const Navbar = () => {
                 <li className='w-[80px] md:w-[130px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px]
                  hover:ml-[-10px] duration-300 bg-[#7d8a99]'>
                     <a  className='flex justify-between items-center w-full text-gray-200 mr-[-10px] lg:mr-0 duration-300' 
-                    href={CV} download="Varga_Márk_Örs_EN.pdf">
+                    href={CV} download="Mark-Ors-Varga-CV-EN.pdf">
                         Resume <BsFillPersonLinesFill size={30} />
                     </a>
                 </li>
